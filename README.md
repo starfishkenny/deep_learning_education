@@ -1,2 +1,2 @@
 # deep_learning_education
-Short_review
+아시아경제 청년취업아카데미(2020.07) ~
